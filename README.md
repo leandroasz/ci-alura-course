@@ -1,6 +1,6 @@
 ![Mobile-Flutter: Flutter CI](capa.png)
 
-# Flutter: Integração Contínua Teste
+# Flutter: Integração Contínua Teste 2
 
 Projeto Sorteador de amigo secreto para o curso Flutter CI.
 
